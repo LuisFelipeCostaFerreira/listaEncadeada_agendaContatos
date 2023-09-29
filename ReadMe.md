@@ -9,7 +9,7 @@ Desenvolva as estruturas para representar os contatos de uma agenda conforme a d
 3. contato com char nome[50], char email[30], endereco e um array para armazenar 2 telefones um para o
 xo e outro para o celular telefone[2].
 
-# Observação: Utilize a diretiva #dene para estabelecer os valores dos tamanhos de cada string.
+# Observação: Utilize a diretiva #define para estabelecer os valores dos tamanhos de cada string.
 
 Crie uma agenda com capacidade de armazenar 10 contatos através de um ponteiro com o nome agenda
 para contato. Faça todo o gerenciamento de memória com alocação dinâmica calloc() ou malloc() e libere
